@@ -20,7 +20,7 @@ This project is a game developed as part of a college project using C++ and the 
 
 1. Clone the repository or download the project files to your local machine.
 ```
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/BenMohaJr/6Colors.git
 ```
 
 2. Ensure that SFML is installed on your system. You can find SFML installation instructions at: [SFML Installation](https://www.sfml-dev.org/download.php)
