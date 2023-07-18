@@ -1,0 +1,6 @@
+Background.png
+NewGame.png
+Exit.png
+EasyButton.png
+NormalButton.png
+HardButton.png
